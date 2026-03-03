@@ -3,7 +3,6 @@ using namespace std;
 
 int p, l;
 
-// Implementasi Prosedur dan Fungsi
 void input() {
     cout << "Masukkan panjang = ";
     cin >> p;
