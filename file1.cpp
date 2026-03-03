@@ -19,7 +19,7 @@ void output() {
     cout << "terima kasih" << endl;
 }
 
-int main() { // mulai
+int main() {
     input();
     output();
     return 0;
