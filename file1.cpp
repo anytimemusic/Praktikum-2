@@ -25,4 +25,4 @@ int main() { // mulai
     input();
     output();
     return 0;
-} // selesai
+}
