@@ -30,4 +30,4 @@ int main() { // mulai
     output();
     cout << "hasil penjumlahan = " << jumlah(15.1, 24.9, 67);
     return 0;
-} // selesai
+} 
